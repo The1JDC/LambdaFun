@@ -1,0 +1,11 @@
+{
+  "name": "serverlessdummy",
+  "version": "1.0.0",
+  "description": "dumb lambda test",
+  "main": "handler.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "",
+  "license": "ISC"
+}
